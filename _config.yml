@@ -1,11 +1,11 @@
 # Site settings
-author: Bryan L Bottorff
-title: 
+author: Bryan Bottorff
+title: My Software Engineering Journey
 header-img: img/home-bg.png
 email: bryanlbottorff@gmail.com
-copyright_name: Bryan L Bottorff
+copyright_name: Bryan Bottorff
 description: > # this means to ignore newlines until "baseurl:"
-  
+  10 month long part time bootcamp begins now!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  botto54
