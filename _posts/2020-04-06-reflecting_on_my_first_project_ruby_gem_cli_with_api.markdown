@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Reflecting On My First Project: Ruby Gem CLI With API"
-date:       2020-04-06 22:46:43 +0000
+date:       2020-04-06 18:46:44 -0400
 permalink:  reflecting_on_my_first_project_ruby_gem_cli_with_api
 ---
 
