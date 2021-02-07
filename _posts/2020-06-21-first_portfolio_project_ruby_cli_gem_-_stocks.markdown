@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Portfolio Project (Ruby CLI Gem - Stocks)"
-date:       2020-06-22 00:30:03 +0000
+date:       2020-06-21 20:30:04 -0400
 permalink:  first_portfolio_project_ruby_cli_gem_-_stocks
 ---
 
